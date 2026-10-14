@@ -1,0 +1,4 @@
+version: 1
+bundleID: pl.edi194.dartoolsmobile
+infoPath: Info.plist
+iconPath: Resources/AppIcon.png
